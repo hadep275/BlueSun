@@ -2,7 +2,7 @@
 
 This project includes an HTML and CSS file to create a blue sun.
 
-[Click here to access the deployed application](https://hadep275.github.io/Sun/)
+[Click here to access the deployed application](https://hadep275.github.io/BlueSun/)
 
 
 ## HTML Structure
